@@ -8,4 +8,5 @@ The `EmployeeSQL` folder contains a data folder with the CSV resources, and two 
 # Entity Relationship Diagram (ERD)
   The `data modeling erd.png` visualizes the structure of the tables and relationships between the related tables of the database. (This ERD was sketched using QuickDBD)
 
-`![Alt Text](images/image.jpg)`
+![data modeling erd](https://github.com/user-attachments/assets/e41ca1ba-00df-4af3-b3a6-b4cf7b555c1d)
+
